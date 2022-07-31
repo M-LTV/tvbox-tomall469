@@ -58,7 +58,7 @@ public class VodInfo implements Serializable {
         tid = video.tid;
         name = video.name;
         type = video.type;
-        // dt = video.dt;
+        dt = video.dt;
         pic = video.pic;
         lang = video.lang;
         area = video.area;
